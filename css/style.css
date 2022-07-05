@@ -62,6 +62,9 @@
 .submit_btn {
     background-color: #FFE44D;
     border: 1px solid transparent;
+    color: black;
+    text-decoration: none;
+    text-align: center;
 }
 
 .redirect_btn {
@@ -83,9 +86,12 @@
 
 .recovery {
     color: gray;
-    text-decoration: none;
     margin: 12px 0;
     font-size: 13px;
     width: 100%;
     text-align: right;
+}
+
+a{
+    text-decoration: none;
 }
